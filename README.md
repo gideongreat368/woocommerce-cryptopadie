@@ -1,6 +1,6 @@
 ![CryptAPI](https://i.imgur.com/IfMAa7E.png)
 
-# CryptAPI Payment Gateway for WooCommerce
+# Cryptopadie Payment Gateway for WooCommerce
 Accept cryptocurrency payments on your WooCommerce website
 
 ### Requirements:
