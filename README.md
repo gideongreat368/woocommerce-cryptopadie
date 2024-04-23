@@ -90,7 +90,7 @@ For more info on our fees [click here](https://cryptapi.io/fees/)
 #### Using The WordPress Dashboard
 
 1. Navigate to the 'Add New' in the plugins dashboard
-2. Search for 'CryptAPI Payment Gateway for WooCommerce'
+2. Search for 'Cryptopadie Payment Gateway for WooCommerce'
 3. Click 'Install Now'
 4. Activate the plugin on the Plugin dashboard
 
