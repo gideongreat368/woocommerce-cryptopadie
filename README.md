@@ -1,5 +1,4 @@
 [<img src="https://i.imgur.com/IfMAa7E.png" width="300"/>](image.png)
-
 # CryptAPI Payment Gateway for WooCommerce
 Accept cryptocurrency payments on your WooCommerce website
 
